@@ -1,0 +1,15 @@
+﻿<Window x:Class="PhonePattern.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhonePattern"
+        mc:Ignorable="d"
+        Title="Phone Number Pattern Finder" Height="350" Width="404" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid>
+        <TextBox x:Name="PhoneNum_TextBox" HorizontalAlignment="Left" Height="23" Margin="87.31,12.96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="292.69" TextChanged="PhoneNum_TextBox_TextChanged"/>
+        <Label x:Name="label" Content="PhoneNum:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Results_TextBox" HorizontalAlignment="Left" Height="268.04" Margin="10,40.96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="370" IsReadOnly="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"/>
+
+    </Grid>
+</Window>

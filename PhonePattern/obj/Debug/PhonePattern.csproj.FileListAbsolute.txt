@@ -1,0 +1,13 @@
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\PhonePattern.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\PhonePattern.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\PhonePattern.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\bin\Debug\PNPF.exe
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\bin\Debug\PNPF.pdb
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\PNPF_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\PNPF_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\PNPF.g.resources
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\PNPF.exe
+E:\Dropbox\!Coding\All_in_one\PhonePattern\PhonePattern\obj\Debug\PNPF.pdb
